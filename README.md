@@ -19,3 +19,7 @@
 -การสมัคร Github, การ Fork และ Edit
 
 [Clip VDO](https://drive.google.com/file/d/1XhhdZwveCPf_QiWAhWAC-JIk5MIVB2r4/view?usp=sharing)
+----------
+-การสร้าง Github Page
+
+[Clip VDO](https://drive.google.com/file/d/19I68URETrnn1fSsKE3EFUyS-PlitFXRR/view?usp=sharing)
